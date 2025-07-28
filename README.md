@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kushal-Shr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kushal-Shr/Leetcode/tree/master/0283-move-zeroes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kushal-Shr/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kushal-Shr/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Kushal-Shr/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Kushal-Shr/Leetcode/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
