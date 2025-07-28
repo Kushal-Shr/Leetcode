@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kushal-Shr/Leetcode/tree/master/0231-power-of-two) |
+| [1054-complement-of-base-10-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
