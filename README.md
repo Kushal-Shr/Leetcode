@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Kushal-Shr/Leetcode/tree/master/0283-move-zeroes) |
+| [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kushal-Shr/Leetcode/tree/master/0001-two-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
