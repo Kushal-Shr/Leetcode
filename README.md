@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Kushal-Shr/Leetcode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Kushal-Shr/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kushal-Shr/Leetcode/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
