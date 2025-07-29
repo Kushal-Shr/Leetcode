@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kushal-Shr/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kushal-Shr/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kushal-Shr/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Kushal-Shr/Leetcode/tree/master/2048-build-array-from-permutation) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Kushal-Shr/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
