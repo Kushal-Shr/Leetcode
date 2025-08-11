@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kushal-Shr/Leetcode/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kushal-Shr/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kushal-Shr/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kushal-Shr/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kushal-Shr/Leetcode/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
