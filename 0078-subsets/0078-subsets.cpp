@@ -7,10 +7,10 @@ private:
             ans.push_back(output);
             return;
         }
-        // include 
+        // exclude 
         solve(nums, output, idx + 1, ans);
         
-        // exclude
+        // include
         int element = nums[idx];
         output.push_back(element);
         solve(nums, output, idx + 1, ans);
