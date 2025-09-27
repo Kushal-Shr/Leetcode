@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kushal-Shr/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Kushal-Shr/Leetcode/tree/master/0155-min-stack) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kushal-Shr/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kushal-Shr/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kushal-Shr/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kushal-Shr/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
