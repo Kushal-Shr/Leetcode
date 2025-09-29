@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Kushal-Shr/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kushal-Shr/Leetcode/tree/master/0204-count-primes) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kushal-Shr/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Kushal-Shr/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Kushal-Shr/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kushal-Shr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Kushal-Shr/Leetcode/tree/master/0020-valid-parentheses) |
