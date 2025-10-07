@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Kushal-Shr/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kushal-Shr/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kushal-Shr/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Kushal-Shr/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Kushal-Shr/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Kushal-Shr/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Kushal-Shr/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kushal-Shr/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kushal-Shr/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0189-rotate-array) |
