@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Kushal-Shr/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Kushal-Shr/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Kushal-Shr/Leetcode/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kushal-Shr/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Kushal-Shr/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0567-permutation-in-string) |
+| [0875-longest-mountain-in-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Kushal-Shr/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kushal-Shr/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kushal-Shr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kushal-Shr/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0875-longest-mountain-in-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kushal-Shr/Leetcode/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
