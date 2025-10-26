@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Kushal-Shr/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Kushal-Shr/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kushal-Shr/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kushal-Shr/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Kushal-Shr/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kushal-Shr/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kushal-Shr/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/1013-fibonacci-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Kushal-Shr/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kushal-Shr/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Kushal-Shr/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
