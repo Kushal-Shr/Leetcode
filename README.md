@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Kushal-Shr/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Kushal-Shr/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kushal-Shr/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kushal-Shr/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Kushal-Shr/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Kushal-Shr/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kushal-Shr/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kushal-Shr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kushal-Shr/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
