@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kushal-Shr/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kushal-Shr/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Kushal-Shr/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2358-number-of-ways-to-split-array](https://github.com/Kushal-Shr/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kushal-Shr/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/Kushal-Shr/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
