@@ -1,6 +1,7 @@
 class Solution {
+
 private:
-    void solve(string digits, string output, int idx, vector<string>& ans, vector<string> letters)
+    void solve(string digits, string output, int idx, vector<string> &ans, vector<string> map)
     {
         if (idx >= digits.size())
         {
@@ -9,28 +10,30 @@ private:
         }
 
         int number = digits[idx] - '0';
-        string val = letters[number - 2];
+
+        string val = map[number];
 
         for (int i = 0; i < val.size(); i++)
         {
             output.push_back(val[i]);
-            solve(digits, output, idx + 1, ans, letters);
+            solve(digits, output, idx + 1, ans, map);
             output.pop_back();
         }
     }
+
 public:
     vector<string> letterCombinations(string digits) {
-        vector<string> letters = {"abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
         vector<string> ans;
-        string output;
+
+        if (digits.size() == 0) return ans;
+
         int idx = 0;
+        
+        string output = "";
 
-        if (digits.size() <= 0)
-        {
-            return ans;
-        }
+        vector<string> map = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
-        solve(digits, output, idx, ans, letters);
+        solve(digits, output, idx, ans, map);
 
         return ans;
     }
