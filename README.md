@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kushal-Shr/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kushal-Shr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Kushal-Shr/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Kushal-Shr/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Kushal-Shr/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kushal-Shr/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Tree
 |  |
