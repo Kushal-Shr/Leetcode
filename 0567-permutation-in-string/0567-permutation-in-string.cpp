@@ -1,47 +1,33 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int count1[26] = {0};
-        bool includes = false;
+        int n1 = s1.length(),
+            n2 = s2.length();
 
-        for (int i = 0; i < s1.size(); i++)
+        if (n1 > n2) return false;
+
+        bool found = false;
+        int i = 0;
+
+        vector<int> freq(26, 0);
+
+        for (char c: s1)
+            freq[c - 'a']++;
+
+        while (i <= n2 - n1 && !found)
         {
-            count1[s1[i] - 'a']++;
-        }
+            vector<int> win_freq(26, 0);
 
-        // ---------------------------
-
-        int s1_len = s1.size();
-
-        for (int j = 0; j <= s2.size() - s1_len && s1.size() <= s2.size(); j++)
-        {
-            int count2[26] = {0};
-            string new_s = s2.substr(j, s1_len);
-
-            for (int i = 0; i < new_s.size(); i++)
+            for (int j = 0; j < n1; j++)
             {
-                count2[new_s[i] - 'a']++;
+                win_freq[s2[i + j] - 'a']++;
             }
 
-            // ------------------
+            if (freq == win_freq) found = true;
 
-            int k = 0, l = 0;
-
-            while (k < 26)
-            {
-                if (count1[k] != count2[l])
-                {
-                    includes = false;
-                    break;
-                }
-                includes = true;
-                k++, l++;
-            }
-
-            if (includes)
-                return includes;
+            i++;
         }
 
-        return includes;
+        return found;
     }
 };
