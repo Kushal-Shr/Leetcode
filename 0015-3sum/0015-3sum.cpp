@@ -1,47 +1,41 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        int n = nums.size();
+
+        set<vector<int>> triplets;
+        vector<int> trip;
+
         sort(nums.begin(), nums.end());
 
-        vector<vector<int>> ans;
-
-        for (int i = 0; i < nums.size() - 1; i++)
+        for (int i = 0; i < n; i++)
         {
-            if (i > 0 && nums[i] == nums[i - 1])
+            int j = i + 1, k = n - 1;
+
+            while (j < k)
             {
-                continue;
-            }
-
-            int left = i + 1, right = nums.size() - 1;
-
-            while (left < right)
-            {
-                if (nums[i] + nums[left] + nums[right] == 0)
+                if (nums[i] + nums[j] + nums[k] == 0)
                 {
-                    ans.push_back({nums[i], nums[left], nums[right]});
-
-                    while (left < right && nums[left] == nums[left + 1])
-                    {
-                        left++;
-                    }
-                    while (left < right && nums[right] == nums[right - 1])
-                    {
-                        right--;
-                    }
-
-                    left++;
-                    right--;
+                    trip = {nums[i], nums[j], nums[k]};
+                    triplets.insert(trip);
+                    k--;
+                    j++;
                 }
-                else if(nums[i] + nums[left] + nums[right] < 0)
+
+                else if (nums[i] + nums[j] + nums[k] > 0)
                 {
-                    left++;
+                    k--;
                 }
-                else 
+
+                else if (nums[i] + nums[j] + nums[k] < 0)
                 {
-                    right--;
+                    j++;
                 }
             }
         }
+
+        vector<vector<int>> ans(triplets.begin(), triplets.end());
+        
         return ans;
     }
 };
