@@ -4,21 +4,21 @@ private:
     {
         if (i == nums.size())
         {
-            if (find(ans.begin(), ans.end(), subset) == ans.end())
-            {
-                ans.push_back(subset);
-                return;     
-            }
-
-            else
-                return;
+            ans.push_back(subset);
+            return;     
+            
         }
 
         subset.push_back(nums[i]);
         subsets(nums, ans, subset, i + 1);
 
         subset.pop_back();
-        subsets(nums, ans, subset, i + 1);
+        int idx = i + 1;
+
+        while (idx < nums.size() && nums[idx] == nums[idx - 1])
+            idx++;
+
+        subsets(nums, ans, subset, idx);
     }
 
 public:
