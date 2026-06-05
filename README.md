@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Kushal-Shr/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushal-Shr/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kushal-Shr/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kushal-Shr/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Kushal-Shr/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Kushal-Shr/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kushal-Shr/Leetcode/tree/master/0148-sort-list) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -387,4 +391,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Kushal-Shr/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kushal-Shr/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kushal-Shr/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Ordered Set
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
