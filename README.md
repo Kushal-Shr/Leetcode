@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Kushal-Shr/Leetcode/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kushal-Shr/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kushal-Shr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kushal-Shr/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushal-Shr/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Kushal-Shr/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Dynamic Programming
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kushal-Shr/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Monotonic Stack
 |  |
@@ -336,10 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kushal-Shr/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -412,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
