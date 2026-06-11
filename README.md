@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushal-Shr/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kushal-Shr/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Kushal-Shr/Leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2596-check-knight-tour-configuration](https://github.com/Kushal-Shr/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kushal-Shr/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kushal-Shr/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kushal-Shr/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Kushal-Shr/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2596-check-knight-tour-configuration](https://github.com/Kushal-Shr/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kushal-Shr/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Kushal-Shr/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/Kushal-Shr/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kushal-Shr/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Kushal-Shr/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kushal-Shr/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kushal-Shr/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/Kushal-Shr/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kushal-Shr/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kushal-Shr/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kushal-Shr/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/Kushal-Shr/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
