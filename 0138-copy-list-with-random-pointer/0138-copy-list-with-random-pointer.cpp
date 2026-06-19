@@ -17,50 +17,35 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        Node *cloneHead = NULL;
-        Node *cloneTail = NULL;
+        if (!head)
+            return head;
+            
+        Node* newHead = new Node(head->val);
+        Node* oldTemp = head->next;
+        Node* newTemp = newHead;
 
-        Node *curr = head;
+        unordered_map<Node*, Node*> m;
+        m[head] = newHead;
 
-        while (curr)
+        while (oldTemp)
         {
-            Node *newNode = new Node(curr->val);
-            if (cloneHead == NULL)
-            {
-                cloneHead = newNode;
-                cloneTail = newNode;
-            }
-            else 
-            {
-                cloneTail->next = newNode;
-                cloneTail = cloneTail->next;
-            }
-
-            curr = curr->next;
+            Node* newNode = new Node(oldTemp->val);
+            m[oldTemp] = newNode;
+            newTemp->next = newNode;
+            oldTemp = oldTemp->next;
+            newTemp = newTemp->next;
         }
 
-        unordered_map<Node*, Node*> old_to_new;
+        oldTemp = head;
+        newTemp = newHead;
 
-        curr = head;
-        Node *cloneCurr = cloneHead;
-
-        while (curr)
+        while (oldTemp)
         {
-            old_to_new[curr] = cloneCurr;
-            curr = curr->next;
-            cloneCurr = cloneCurr->next;
+            newTemp->random = m[oldTemp->random];
+            newTemp = newTemp->next;
+            oldTemp = oldTemp->next;
         }
 
-        curr = head;
-        cloneCurr = cloneHead;
-
-        while (curr)
-        {
-            cloneCurr->random = old_to_new[curr->random];
-            curr = curr->next;
-            cloneCurr = cloneCurr->next;
-        }
-
-        return cloneHead;
+        return newHead;
     }
 };
