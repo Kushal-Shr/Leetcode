@@ -14,25 +14,12 @@ public:
         if (!head || !head->next)
             return head;
 
-        ListNode *curr = head;
-        ListNode *prev = nullptr;
-        ListNode *newHead = head->next;
+        ListNode* curr = head;
+        ListNode* n = head->next;
 
-        while (curr && curr->next)
-        {
-            ListNode *forward = curr->next;
-            ListNode *nextPair = forward->next;
+        curr->next = swapPairs(n->next);
+        n->next = curr;
 
-            forward->next = curr;
-            curr->next = nextPair;
-
-            if (prev)
-                prev->next = forward;
-            
-            prev = curr;
-            curr = nextPair;
-        }
-
-        return newHead;
+        return n;
     }
 };
