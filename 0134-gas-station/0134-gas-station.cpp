@@ -11,29 +11,31 @@ public:
         }
 
         int ans = -1;
-        queue<int> ansIdx;
 
         if (tot1 >= tot2)
         {
             int sum1 = 0, sum2 = 0;
+            int count = 0;
 
             for (int i = 0; i < n; i++)
             {
                 sum1 += gas[i]; sum2 += cost[i];
 
                 if (sum1 >= sum2)
-                    ansIdx.push(i);
+                {
+                    ans = i;
+                    count++;
+                }
 
                 else
                 {
-                    while (!ansIdx.empty())
-                        ansIdx.pop();
-
                     sum1 = 0; sum2 = 0;
+                    ans = -1;
+                    count = 0;
                 }
             }
 
-            ans = ansIdx.front();
+            ans = ans - count + 1;
         }
 
         return ans;
