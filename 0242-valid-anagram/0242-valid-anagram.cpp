@@ -1,28 +1,19 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char, int> count;
-
-        if (s.size() != t.size())
-            return false;
+        unordered_map<char, int> m;
 
         for (char ch: s)
-        {
-            if (count[ch] > 0)
-                count[ch] += 1;
-            else
-                count[ch] = 1;
-        }
+            m[ch]++;
 
         for (char ch: t)
+            m[ch]--;
+
+        for (auto pair: m)
         {
-            if (count.find(ch) == count.end() || count[ch] == 0)
+            if (pair.second != 0)
                 return false;
-
-            else 
-                count[ch] -= 1;
         }
-
         return true;
     }
 };
