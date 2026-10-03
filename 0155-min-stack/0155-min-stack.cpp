@@ -8,21 +8,14 @@ public:
     
     void push(int value) {
         if (st.empty())
-        {
             st.push({value, value});
-        }
-
+        
         else
         {
             if (value < st.top().second)
-            {
                 st.push({value, value});
-            }
-
             else
-            {
                 st.push({value, st.top().second});
-            }
         }
     }
     
