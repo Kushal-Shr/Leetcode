@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kushal-Shr/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1480-running-sum-of-1d-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kushal-Shr/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kushal-Shr/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Kushal-Shr/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Kushal-Shr/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kushal-Shr/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Kushal-Shr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Kushal-Shr/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kushal-Shr/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Tree
 |  |
