@@ -13,8 +13,9 @@ class Solution {
 public:
     bool helper(TreeNode* root, TreeNode* min, TreeNode* max)
     {
-        if (!root) return true;
-
+        if (!root)
+            return true;
+        
         if (min && root->val <= min->val)
             return false;
         if (max && root->val >= max->val)
