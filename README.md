@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Kushal-Shr/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Kushal-Shr/Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kushal-Shr/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kushal-Shr/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Kushal-Shr/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kushal-Shr/Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kushal-Shr/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Kushal-Shr/Leetcode/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kushal-Shr/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Kushal-Shr/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -617,10 +619,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kushal-Shr/Leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kushal-Shr/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kushal-Shr/Leetcode/tree/master/0207-course-schedule) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kushal-Shr/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
