@@ -1,28 +1,28 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
+        vector<int> pSum(nums.size(), 0);
         int n = nums.size();
-        vector<int> pSum(n, 0);
-        int count = 0;
 
-        pSum[0] = nums[0];
-        for (int i = 1; i < n; i++)
+        int s = 0;
+        for (int i = 0; i < n; i++)
         {
-            pSum[i] = pSum[i - 1] + nums[i];
+            pSum[i] += s + nums[i];
+            s += nums[i];
         }
 
-        unordered_map<int, int> psFreq;
+        unordered_map<int, int> m;
+        int count = 0;
 
-        for (int j = 0; j < n; j++)
+        for (int i = 0; i < n; i++)
         {
-            if (k == pSum[j]) count++;
+            if (pSum[i] == k)
+                count++;
 
-            if (psFreq[pSum[j] - k] > 0)
-            {
-                count += psFreq[pSum[j] - k];
-            }
+            if (m[pSum[i] - k] > 0)
+                count += m[pSum[i] - k];
 
-            psFreq[pSum[j]]++;
+            m[pSum[i]]++;
         }
 
         return count;
