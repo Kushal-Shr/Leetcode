@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Kushal-Shr/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/Kushal-Shr/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kushal-Shr/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kushal-Shr/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Kushal-Shr/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Kushal-Shr/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kushal-Shr/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kushal-Shr/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -658,4 +660,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kushal-Shr/Leetcode/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Kushal-Shr/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
