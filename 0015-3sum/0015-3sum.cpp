@@ -1,47 +1,54 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
-
-        // set<vector<int>> triplets;
         vector<vector<int>> ans;
         vector<int> trip;
+        int n = nums.size();
 
         sort(nums.begin(), nums.end());
+        // 0 0 0 0 0 1 1 2
 
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < n - 2; i++)
         {
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
-                int j = i + 1, k = n - 1;
+            int j = i + 1;
+            int k = n - 1;
 
-                while (j < k)
+            while (j < k)
+            {
+                if (j > i + 2 && nums[j] == nums[j - 1])
                 {
-                    if (nums[i] + nums[j] + nums[k] == 0)
-                    {
-                        trip = {nums[i], nums[j], nums[k]};
-                        ans.push_back(trip);
-                        k--;
-                        j++;
-
-                        while (j < k && nums[j] == nums[j - 1])
-                            j++;
-                    }
-
-                    else if (nums[i] + nums[j] + nums[k] > 0)
-                    {
-                        k--;
-                    }
-
-                    else if (nums[i] + nums[j] + nums[k] < 0)
-                    {
-                        j++;
-                    }
+                    j++;
+                    continue;
                 }
+                if (k < n - 1 && nums[k] == nums[k + 1])
+                {
+                    k--;
+                    continue;
+                }
+
+                if (nums[i] + nums[j] + nums[k] == 0)
+                {
+                    trip.push_back(nums[i]);
+                    trip.push_back(nums[j]);
+                    trip.push_back(nums[k]);
+
+                    ans.push_back(trip);
+                    trip.clear();
+
+                    k--;
+                    j++;
+                }
+
+                else if (nums[i] + nums[j] + nums[k] > 0)
+                    k--;
+
+                else
+                    j++;
+            }
         }
 
-        // vector<vector<int>> ans(triplets.begin(), triplets.end());
-        
         return ans;
     }
 };
