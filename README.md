@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kushal-Shr/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kushal-Shr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Kushal-Shr/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Kushal-Shr/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kushal-Shr/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Kushal-Shr/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Kushal-Shr/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Kushal-Shr/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kushal-Shr/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
