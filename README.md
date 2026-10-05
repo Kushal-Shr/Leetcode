@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kushal-Shr/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kushal-Shr/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Kushal-Shr/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kushal-Shr/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kushal-Shr/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Kushal-Shr/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Kushal-Shr/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Kushal-Shr/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/0509-fibonacci-number) |
 | [0875-longest-mountain-in-array](https://github.com/Kushal-Shr/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/Kushal-Shr/Leetcode/tree/master/1013-fibonacci-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Kushal-Shr/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Kushal-Shr/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kushal-Shr/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kushal-Shr/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Kushal-Shr/Leetcode/tree/master/0771-jewels-and-stones) |
